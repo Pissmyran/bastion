@@ -1,14 +1,14 @@
 blank_issues_enabled: false
 contact_links:
   - name: Bastion for Apple
-    url: https://github.com/pissmyran/bastion_apple/issues/new/choose
+    url: https://github.com/Myrpisset/bastion-apple/issues/new/choose
     about: Bugs and requests for iPhone, iPad, Mac and Apple TV.
   - name: Bastion for Linux
-    url: https://github.com/pissmyran/bastion_linux/issues/new/choose
+    url: https://github.com/Myrpisset/bastion-linux/issues/new/choose
     about: Bugs and requests for the Linux desktop.
   - name: Bastion for Windows
-    url: https://github.com/pissmyran/bastion_windows/issues/new/choose
+    url: https://github.com/Myrpisset/bastion-windows/issues/new/choose
     about: Bugs and requests for Windows.
   - name: Bastion for Android
-    url: https://github.com/pissmyran/bastion_android/issues/new/choose
+    url: https://github.com/Myrpisset/bastion-android/issues/new/choose
     about: Bugs and requests for Android.
