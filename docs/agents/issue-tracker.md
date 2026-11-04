@@ -1,6 +1,6 @@
 # Issues
 
-GitHub Issues in `pissmyran/bastion` takes issues that concern every platform. Issues for a single platform belong in that platform's repo; move them there with **Transfer issue**.
+GitHub Issues in `Myrpisset/bastion` takes issues that concern every platform. Issues for a single platform belong in that platform's repo; move them there with **Transfer issue**.
 
 ## Working with issues
 
@@ -12,10 +12,10 @@ GitHub Issues in `pissmyran/bastion` takes issues that concern every platform. I
 
 `gh issue` does not work in cloud sessions (GraphQL is disabled). Use REST:
 
-- Read: `gh api repos/pissmyran/bastion/issues/<n>` and `…/issues/<n>/comments`
-- List open: `gh api 'repos/pissmyran/bastion/issues?state=open'`
-- Create: `gh api repos/pissmyran/bastion/issues -f title='…' -f body='…'`
-- Comment: `gh api repos/pissmyran/bastion/issues/<n>/comments -f body='…'`
-- Close: `gh api -X PATCH repos/pissmyran/bastion/issues/<n> -f state=closed`
+- Read: `gh api repos/Myrpisset/bastion/issues/<n>` and `…/issues/<n>/comments`
+- List open: `gh api 'repos/Myrpisset/bastion/issues?state=open'`
+- Create: `gh api repos/Myrpisset/bastion/issues -f title='…' -f body='…'`
+- Comment: `gh api repos/Myrpisset/bastion/issues/<n>/comments -f body='…'`
+- Close: `gh api -X PATCH repos/Myrpisset/bastion/issues/<n> -f state=closed`
 
 Projects (GitHub Projects) cannot be read or changed from a cloud session.

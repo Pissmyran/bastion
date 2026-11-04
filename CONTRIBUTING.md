@@ -6,8 +6,8 @@ This repo is the Bastion hub and holds no code.
 
 ## Where a change belongs
 
-- **Code and platform documentation:** in the platform's repo: [Apple](https://github.com/pissmyran/bastion_apple), [Linux](https://github.com/pissmyran/bastion_linux), [Windows](https://github.com/pissmyran/bastion_windows) or [Android](https://github.com/pissmyran/bastion_android).
-- **The sync format:** in [Bastion for Apple](https://github.com/pissmyran/bastion_apple), which owns it.
+- **Code and platform documentation:** in the platform's repo: [Apple](https://github.com/Myrpisset/bastion-apple), [Linux](https://github.com/Myrpisset/bastion-linux), [Windows](https://github.com/Myrpisset/bastion-windows) or [Android](https://github.com/Myrpisset/bastion-android).
+- **The sync format:** in [Bastion for Apple](https://github.com/Myrpisset/bastion-apple), which owns it.
 - **The hub site and shared documentation:** here.
 
 ## Reporting

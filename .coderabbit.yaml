@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=https://coderabbit.ai/integrations/schema.v2.json
 
-# Shared settings are inherited from pissmyran/coderabbit.
+# Shared settings are inherited from Myrpisset/coderabbit.
 inheritance: true
 
 reviews:
@@ -32,7 +32,7 @@ reviews:
         link locations: README.md, docs/ and .github/ISSUE_TEMPLATE/config.yml.
         Platform implementation and platform documentation belong in the
         platform repositories, not in this hub.
-        For sync-format documentation changes, preserve bastion_apple as the
+        For sync-format documentation changes, preserve bastion-apple as the
         source of truth for the format and fixtures. Do not propose independent
         sync-format changes in the hub.
 
