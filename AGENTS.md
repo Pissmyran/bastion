@@ -1,8 +1,8 @@
 # AGENTS.md – bastion
 
-The hub for the SSH client Bastion: the hub site, shared documentation and issues that concern every platform. The repository holds no code. The code lives in [bastion-apple](https://github.com/Myrpisset/bastion-apple), [bastion-linux](https://github.com/Myrpisset/bastion-linux), [bastion-windows](https://github.com/Myrpisset/bastion-windows) and [bastion-android](https://github.com/Myrpisset/bastion-android).
+The hub for the SSH client Bastion: the hub site, shared documentation and issues that concern every platform. The repository holds no code. The code lives in [bastion-apple](https://github.com/Pissmyran/bastion-apple), [bastion-linux](https://github.com/Pissmyran/bastion-linux), [bastion-windows](https://github.com/Pissmyran/bastion-windows) and [bastion-android](https://github.com/Pissmyran/bastion-android).
 
-Read the shared rules at the start of every session: [GOVERNANCE.md](https://raw.githubusercontent.com/Myrpisset/.github/main/GOVERNANCE.md) and [BASTION.md](https://raw.githubusercontent.com/Myrpisset/.github/main/BASTION.md).
+Read the shared rules at the start of every session: [GOVERNANCE.md](https://raw.githubusercontent.com/Pissmyran/.github/main/GOVERNANCE.md) and [BASTION.md](https://raw.githubusercontent.com/Pissmyran/.github/main/BASTION.md).
 
 ## Read first
 

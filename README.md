@@ -8,16 +8,16 @@ Bastion is an SSH client for several platforms. Each platform has its own repo w
 
 | Repo | For | Built with | Documentation |
 | --- | --- | --- | --- |
-| [Bastion for Apple](https://github.com/Myrpisset/bastion-apple) | iPhone, iPad, Mac and Apple TV | Swift, SwiftNIO SSH, SwiftUI | [Documentation](https://docs.denied.se/bastion-apple/) |
-| [Bastion for Linux](https://github.com/Myrpisset/bastion-linux) | the Linux desktop | Rust, GTK 4, libadwaita, VTE, russh | [Documentation](https://docs.denied.se/bastion-linux/) |
-| [Bastion for Windows](https://github.com/Myrpisset/bastion-windows) | Windows | C#, .NET, WinUI, SSH.NET | [Documentation](https://docs.denied.se/bastion-windows/) |
-| [Bastion for Android](https://github.com/Myrpisset/bastion-android) | Android | Kotlin, Gradle, Apache MINA SSHD | [Documentation](https://docs.denied.se/bastion-android/) |
+| [Bastion for Apple](https://github.com/Pissmyran/bastion-apple) | iPhone, iPad, Mac and Apple TV | Swift, SwiftNIO SSH, SwiftUI | [Documentation](https://docs.denied.se/bastion-apple/) |
+| [Bastion for Linux](https://github.com/Pissmyran/bastion-linux) | the Linux desktop | Rust, GTK 4, libadwaita, VTE, russh | [Documentation](https://docs.denied.se/bastion-linux/) |
+| [Bastion for Windows](https://github.com/Pissmyran/bastion-windows) | Windows | C#, .NET, WinUI, SSH.NET | [Documentation](https://docs.denied.se/bastion-windows/) |
+| [Bastion for Android](https://github.com/Pissmyran/bastion-android) | Android | Kotlin, Gradle, Apache MINA SSHD | [Documentation](https://docs.denied.se/bastion-android/) |
 
 ## Shared
 
-- **The sync format** for the host list is shared by the platforms that sync. The source is the Swift models in [Bastion for Apple](https://github.com/Myrpisset/bastion-apple); the other repos test against copies of the fixtures from there.
-- **The projects** of the organization are listed at [github.com/orgs/Myrpisset/projects](https://github.com/orgs/Myrpisset/projects).
-- **The rules** for working in every repo are in [GOVERNANCE.md](https://github.com/Myrpisset/.github/blob/main/GOVERNANCE.md).
+- **The sync format** for the host list is shared by the platforms that sync. The source is the Swift models in [Bastion for Apple](https://github.com/Pissmyran/bastion-apple); the other repos test against copies of the fixtures from there.
+- **The projects** are listed at [github.com/Pissmyran?tab=projects](https://github.com/Pissmyran?tab=projects).
+- **The rules** for working in every repo are in [GOVERNANCE.md](https://github.com/Pissmyran/.github/blob/main/GOVERNANCE.md).
 
 ## Reporting
 
