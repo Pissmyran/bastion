@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=https://coderabbit.ai/integrations/schema.v2.json
 
-# Shared settings are inherited from Myrpisset/coderabbit.
+# Shared settings are inherited from Pissmyran/coderabbit.
 inheritance: true
 
 reviews:
