@@ -4,10 +4,10 @@ Each platform is its own repo with its own code, versions and documentation. A p
 
 | Repo | For | Built with | Links |
 | --- | --- | --- | --- |
-| [Bastion for Apple](https://github.com/Myrpisset/bastion-apple) | iPhone, iPad, Mac and Apple TV | Swift, SwiftNIO SSH, SwiftUI | [Documentation](https://myrpisset.github.io/bastion-apple/) · [Releases](https://github.com/Myrpisset/bastion-apple/releases) |
-| [Bastion for Linux](https://github.com/Myrpisset/bastion-linux) | the Linux desktop | Rust, GTK 4, libadwaita, VTE, russh | [Documentation](https://myrpisset.github.io/bastion-linux/) · [Releases](https://github.com/Myrpisset/bastion-linux/releases) |
-| [Bastion for Windows](https://github.com/Myrpisset/bastion-windows) | Windows | C#, .NET, WinUI, SSH.NET | [Documentation](https://myrpisset.github.io/bastion-windows/) · [Releases](https://github.com/Myrpisset/bastion-windows/releases) |
-| [Bastion for Android](https://github.com/Myrpisset/bastion-android) | Android | Kotlin, Gradle, Apache MINA SSHD | [Documentation](https://myrpisset.github.io/bastion-android/) · [Releases](https://github.com/Myrpisset/bastion-android/releases) |
+| [Bastion for Apple](https://github.com/Myrpisset/bastion-apple) | iPhone, iPad, Mac and Apple TV | Swift, SwiftNIO SSH, SwiftUI | [Documentation](https://docs.denied.se/bastion-apple/) · [Releases](https://github.com/Myrpisset/bastion-apple/releases) |
+| [Bastion for Linux](https://github.com/Myrpisset/bastion-linux) | the Linux desktop | Rust, GTK 4, libadwaita, VTE, russh | [Documentation](https://docs.denied.se/bastion-linux/) · [Releases](https://github.com/Myrpisset/bastion-linux/releases) |
+| [Bastion for Windows](https://github.com/Myrpisset/bastion-windows) | Windows | C#, .NET, WinUI, SSH.NET | [Documentation](https://docs.denied.se/bastion-windows/) · [Releases](https://github.com/Myrpisset/bastion-windows/releases) |
+| [Bastion for Android](https://github.com/Myrpisset/bastion-android) | Android | Kotlin, Gradle, Apache MINA SSHD | [Documentation](https://docs.denied.se/bastion-android/) · [Releases](https://github.com/Myrpisset/bastion-android/releases) |
 
 ## What is shared
 

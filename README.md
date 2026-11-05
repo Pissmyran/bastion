@@ -1,6 +1,6 @@
 # Bastion
 
-**Documentation:** [myrpisset.github.io/bastion](https://myrpisset.github.io/bastion/)
+**Documentation:** [docs.denied.se/bastion](https://docs.denied.se/bastion/)
 
 Bastion is an SSH client for several platforms. Each platform has its own repo with its own code, versions and documentation. This repo is the hub: it gathers the links, describes what is shared and takes issues that concern every platform.
 
@@ -8,10 +8,10 @@ Bastion is an SSH client for several platforms. Each platform has its own repo w
 
 | Repo | For | Built with | Documentation |
 | --- | --- | --- | --- |
-| [Bastion for Apple](https://github.com/Myrpisset/bastion-apple) | iPhone, iPad, Mac and Apple TV | Swift, SwiftNIO SSH, SwiftUI | [Documentation](https://myrpisset.github.io/bastion-apple/) |
-| [Bastion for Linux](https://github.com/Myrpisset/bastion-linux) | the Linux desktop | Rust, GTK 4, libadwaita, VTE, russh | [Documentation](https://myrpisset.github.io/bastion-linux/) |
-| [Bastion for Windows](https://github.com/Myrpisset/bastion-windows) | Windows | C#, .NET, WinUI, SSH.NET | [Documentation](https://myrpisset.github.io/bastion-windows/) |
-| [Bastion for Android](https://github.com/Myrpisset/bastion-android) | Android | Kotlin, Gradle, Apache MINA SSHD | [Documentation](https://myrpisset.github.io/bastion-android/) |
+| [Bastion for Apple](https://github.com/Myrpisset/bastion-apple) | iPhone, iPad, Mac and Apple TV | Swift, SwiftNIO SSH, SwiftUI | [Documentation](https://docs.denied.se/bastion-apple/) |
+| [Bastion for Linux](https://github.com/Myrpisset/bastion-linux) | the Linux desktop | Rust, GTK 4, libadwaita, VTE, russh | [Documentation](https://docs.denied.se/bastion-linux/) |
+| [Bastion for Windows](https://github.com/Myrpisset/bastion-windows) | Windows | C#, .NET, WinUI, SSH.NET | [Documentation](https://docs.denied.se/bastion-windows/) |
+| [Bastion for Android](https://github.com/Myrpisset/bastion-android) | Android | Kotlin, Gradle, Apache MINA SSHD | [Documentation](https://docs.denied.se/bastion-android/) |
 
 ## Shared
 

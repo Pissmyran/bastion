@@ -20,5 +20,5 @@ pip install --upgrade zensical && zensical build --strict
 - **No code here.** Code, tests and platform documentation change in the platform repositories.
 - **Links** to the platform repositories and their sites are in `README.md`, `docs/` and `.github/ISSUE_TEMPLATE/config.yml`. If a repository is renamed, update all three.
 - **The site is published on GitHub Pages only when a release is created.** A site change that should go out needs `feat:` or `fix:` in the title. The release gate is `.github/release-required-checks` (`Analyze (actions)`).
-- **`site_url`** in `zensical.toml` is a custom domain, while the repository's homepage is `myrpisset.github.io/bastion`. Do not change `site_url` without the owner's decision.
+- **`site_url`** in `zensical.toml` is `https://docs.denied.se/bastion/`. Public documentation for every repository is published at `docs.denied.se/<repo>`, and links between the repositories' documentation use that form. Do not change `site_url` without the owner's decision.
 - **Extra care:** links to the platform repositories and the release gate.

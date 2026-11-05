@@ -1,6 +1,6 @@
 [project]
 site_name = "Bastion"
-site_url = "https://docs.bastion.denied.se"
+site_url = "https://docs.denied.se/bastion/"
 site_description = "An SSH client for iPhone, iPad, Mac, Apple TV, Linux, Windows and Android."
 repo_url = "https://github.com/Myrpisset/bastion"
 repo_name = "Myrpisset/bastion"
