@@ -10,8 +10,8 @@ The Apple, Linux and Windows apps can sync the host list and snippets. They read
 
 | Repo | Fixtures | Read more |
 | --- | --- | --- |
-| [Bastion for Linux](https://github.com/Myrpisset/bastion-linux) | `LinuxApp/tests/fixtures/` | [Sync format](https://myrpisset.github.io/bastion-linux/sync-format/) |
-| [Bastion for Windows](https://github.com/Myrpisset/bastion-windows) | `WindowsApp/Bastion.Core.Tests/csharp-hosts-fixture.json` | [Sync format](https://myrpisset.github.io/bastion-windows/sync-format/) |
+| [Bastion for Linux](https://github.com/Myrpisset/bastion-linux) | `LinuxApp/tests/fixtures/` | [Sync format](https://docs.denied.se/bastion-linux/sync-format/) |
+| [Bastion for Windows](https://github.com/Myrpisset/bastion-windows) | `WindowsApp/Bastion.Core.Tests/csharp-hosts-fixture.json` | [Sync format](https://docs.denied.se/bastion-windows/sync-format/) |
 
 Bastion for Android has no sync yet. When it is built, it must follow the same format and test against its own copies of the fixtures.
 
@@ -22,4 +22,4 @@ Bastion for Android has no sync yet. When it is built, it must follow the same f
 3. The platforms copy the new fixtures and update their readers and writers.
 4. A fixture is never changed just to make a test pass.
 
-The full routine is in [Sync format for Apple](https://myrpisset.github.io/bastion-apple/sync-format/).
+The full routine is in [Sync format for Apple](https://docs.denied.se/bastion-apple/sync-format/).

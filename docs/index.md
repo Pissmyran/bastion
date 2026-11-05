@@ -16,7 +16,7 @@ hide:
 
     The SSH client for iPhone, iPad, Mac and Apple TV. Also home to the shared Swift core SSHCore and the sync format.
 
-    [Documentation](https://myrpisset.github.io/bastion-apple/) · [Source](https://github.com/Myrpisset/bastion-apple)
+    [Documentation](https://docs.denied.se/bastion-apple/) · [Source](https://github.com/Myrpisset/bastion-apple)
 
 -   **Bastion for Linux**
 
@@ -24,7 +24,7 @@ hide:
 
     The SSH client for the Linux desktop, written in Rust with GTK 4 and libadwaita.
 
-    [Documentation](https://myrpisset.github.io/bastion-linux/) · [Source](https://github.com/Myrpisset/bastion-linux)
+    [Documentation](https://docs.denied.se/bastion-linux/) · [Source](https://github.com/Myrpisset/bastion-linux)
 
 -   **Bastion for Windows**
 
@@ -32,7 +32,7 @@ hide:
 
     The SSH client for Windows, with a .NET core and a WinUI interface.
 
-    [Documentation](https://myrpisset.github.io/bastion-windows/) · [Source](https://github.com/Myrpisset/bastion-windows)
+    [Documentation](https://docs.denied.se/bastion-windows/) · [Source](https://github.com/Myrpisset/bastion-windows)
 
 -   **Bastion for Android**
 
@@ -40,7 +40,7 @@ hide:
 
     The SSH client for Android, written in Kotlin with Apache MINA SSHD.
 
-    [Documentation](https://myrpisset.github.io/bastion-android/) · [Source](https://github.com/Myrpisset/bastion-android)
+    [Documentation](https://docs.denied.se/bastion-android/) · [Source](https://github.com/Myrpisset/bastion-android)
 
 </div>
 
