@@ -14,7 +14,7 @@ If you are unsure, open it here. It will be moved to the right repo.
 
 ## Projects
 
-The organization's [projects](https://github.com/orgs/Pissmyran/projects) track work across the five repos.
+The [projects](https://github.com/Pissmyran?tab=projects) track work across the five repos.
 
 ## Security problems
 

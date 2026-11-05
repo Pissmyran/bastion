@@ -16,7 +16,7 @@ Bastion is an SSH client for several platforms. Each platform has its own repo w
 ## Shared
 
 - **The sync format** for the host list is shared by the platforms that sync. The source is the Swift models in [Bastion for Apple](https://github.com/Pissmyran/bastion-apple); the other repos test against copies of the fixtures from there.
-- **The projects** of the organization are listed at [github.com/orgs/Pissmyran/projects](https://github.com/orgs/Pissmyran/projects).
+- **The projects** are listed at [github.com/Pissmyran?tab=projects](https://github.com/Pissmyran?tab=projects).
 - **The rules** for working in every repo are in [GOVERNANCE.md](https://github.com/Pissmyran/.github/blob/main/GOVERNANCE.md).
 
 ## Reporting
