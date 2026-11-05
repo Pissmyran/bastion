@@ -12,10 +12,46 @@ GitHub Issues in `Pissmyran/bastion` takes issues that concern every platform. I
 
 `gh issue` does not work in cloud sessions (GraphQL is disabled). Use REST:
 
-- Read: `gh api repos/Pissmyran/bastion/issues/<n>` and `…/issues/<n>/comments`
-- List open: `gh api 'repos/Pissmyran/bastion/issues?state=open'`
-- Create: `gh api repos/Pissmyran/bastion/issues -f title='…' -f body='…'`
-- Comment: `gh api repos/Pissmyran/bastion/issues/<n>/comments -f body='…'`
-- Close: `gh api -X PATCH repos/Pissmyran/bastion/issues/<n> -f state=closed`
+Set the issue number first:
+
+```bash
+ISSUE=1
+```
+
+Read an issue:
+
+```bash
+gh api repos/Pissmyran/bastion/issues/$ISSUE
+```
+
+Read its comments:
+
+```bash
+gh api repos/Pissmyran/bastion/issues/$ISSUE/comments
+```
+
+List open issues:
+
+```bash
+gh api 'repos/Pissmyran/bastion/issues?state=open'
+```
+
+Create an issue:
+
+```bash
+gh api repos/Pissmyran/bastion/issues -f title='…' -f body='…'
+```
+
+Comment on an issue:
+
+```bash
+gh api repos/Pissmyran/bastion/issues/$ISSUE/comments -f body='…'
+```
+
+Close an issue:
+
+```bash
+gh api -X PATCH repos/Pissmyran/bastion/issues/$ISSUE -f state=closed
+```
 
 Projects (GitHub Projects) cannot be read or changed from a cloud session.
