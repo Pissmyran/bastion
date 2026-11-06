@@ -1,8 +1,8 @@
-> Guide: [AI- och Copilot-inställningar på GitHub](https://github.com/pissmyran/.github/blob/main/public/ai-och-copilot.md) · [English](https://github.com/pissmyran/.github/blob/main/public/eng/ai-and-copilot.md)
-
 # Bastion
 
 **Documentation:** [docs.denied.se/bastion](https://docs.denied.se/bastion/)
+
+> Guide: [AI- och Copilot-inställningar på GitHub](https://github.com/pissmyran/.github/blob/main/public/ai-och-copilot.md) · [English](https://github.com/pissmyran/.github/blob/main/public/eng/ai-and-copilot.md)
 
 Bastion is an SSH client for several platforms. Each platform has its own repo with its own code, versions and documentation. This repo is the hub: it gathers the links, describes what is shared and takes issues that concern every platform.
 
